@@ -4,7 +4,7 @@ from helper.database import find, addcaption, delcaption
 @Client.on_message(filters.private & filters.command('set_caption'))
 async def add_caption(client, message):
     if len(message.command) == 1:
-       return await message.reply_text("**Give me a caption to set.\n\nExample:- `/set_caption 📕 File Name: {filename}\n\n💾 Size: {filesize}\n\n⏰ Duration: {duration}`**")
+       return await message.reply_text("**Give me a caption to set.\n\nExample:- `/set_caption 📕 ғɪʟᴇ ɴᴀᴍᴇ: {filename}\n\n💾 sɪᴢᴇ: {filesize}\n\n⏰ ᴅᴜʀᴀᴛɪᴏɴ: {duration}`**")
     caption = message.text.split(" ", 1)[1]
     addcaption(int(message.chat.id), caption)
     await message.reply_text("**Your Caption successfully added ✅**")
