@@ -18,7 +18,7 @@ async def is_not_subscribed(client, message):
 async def start(client, message):
     insert(int(message.chat.id))
     await message.reply_photo(
-       photo="https://telegra.ph/file/2e2a07e86066538ed7406.jpg",
+       photo="https://telegra.ph/file/955a798ca2c38c87d67e0.jpg",
        caption=f"""👋 ʜᴀɪ {message.from_user.mention} \nɪᴍ ᴀ sɪᴍᴘʟᴇ ғɪʟᴇ ʀᴇɴᴀᴍᴇ + ғɪʟᴇ ᴛᴏ ᴠɪᴅᴇᴏ ᴄᴏᴠᴇʀᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ ᴀɴᴅ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ sᴜᴘᴘᴏʀᴛ 🤩 \nʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ : @CS_Teamchannel \n 🤩""",
        reply_markup=InlineKeyboardMarkup( [[
           InlineKeyboardButton("👨‍💻 ᴏᴡɴᴇʀ 👨‍💻", url='https://t.me/Sanoob_Achu_18')
