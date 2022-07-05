@@ -8,33 +8,33 @@ class mr(object):
 
     ABOUT_TXT = """
 ╭───────────⍟
-├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-├👑 𝙳𝙴𝚅𝚂 : <a href=https://t.me/PYRO_BOTZ>TEAM-PYRO-BOTZ</a> 
-├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://github.com/lntechnical2>𝙻𝙽 𝚃𝙴𝙲𝙷.𝚐𝚒𝚝</a>
-├🖥️ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 : <a href=https://youtu.be/7ALYUk-rYMc>𝙼𝙾 𝚃𝙴𝙲𝙷 𝚈𝚃</a>
-├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
-├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
-├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://cloud.mongodb.com>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://dashboard.heroku.com>𝙷𝙴𝚁𝙾𝙺𝚄</a>
-├📊 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚄𝚂 : v3.6.8 [ 𝙼𝙰𝙹𝙾𝚁 ]              
+├🤖 ᴍʏ ɴᴀᴍᴇ : {}
+├👑 ᴅᴇᴠ : <a href=https://t.me/Sanoob_Achu_18>sᴀɴᴏᴏʙ 🇮🇳</a> 
+├👨‍💻 sᴜᴘᴘᴏʀᴛᴇʀ 1 : <a href=https://t.me/ddrabit>ᴀʀᴜɴ 🇮🇳</a>
+├🖥️ sᴜᴘᴘᴏʀᴛᴇʀ 2 : <a href=https://t.me/PromotionMediator>sʀᴇᴇᴊɪᴛʜ 🇮🇳</a>
+├📕 ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a>
+├✏️ ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 3/a>
+├💾 ᴅᴀᴛᴀ ʙᴀsᴇ : <a href=https://cloud.mongodb.com>ᴍᴏɴɢᴏ ᴅʙ</a>
+├🌀 ᴍʏ sᴇʀᴠᴇʀ : <a href=https://dashboard.heroku.com>ʜᴇʀᴏᴋᴜ</a>
+├🗓️ ʙᴏᴛ ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ : ᴊᴜʟʏ 5 2022              
 ╰───────────────⍟
                                 """
     HELP_TXT = """
-🌌 <b><u>HOW TO SET THUMBNILE</u></b>
+🖼️ <b><u>ʜᴏᴡ ᴛᴏ ᴛʜᴜᴍʙɴᴀɪʟ</u></b>
   
-•> /start a bot and send any picture to automatically set thumbnile.
-•> /delthumb use this command and delete your old thumbnile.
-•> /viewthumb use this command view your current thumbnile.
+•> /start ᴀ ʙᴏᴛ ᴀɴᴅ sᴇɴᴅ ᴀɴʏ ᴘɪᴄᴛᴜʀᴇ ᴛᴏ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ sᴇᴛ ᴛʜᴜᴍʙɴᴀɪʟ.
+•> /delthumb ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴀɴᴅ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴏʟᴅ ᴛʜᴜᴍʙɴᴀɪʟ.
+•> /viewthumb ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴠɪᴇᴡ ʏᴏᴜʀ ᴄᴜʀʀᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ.
 
-📑 <b><u>HOW TO SET CUSTOM CAPTION</u></b>
-•> /set_caption - set a custom caption
-•> /see_caption - see your custom caption
-•> /del_caption - delete custom caption
+📑 <b><u>ʜᴏᴡ ᴛᴏ sᴇᴛ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ</u></b>
+•> /set_caption - sᴇᴛ ᴀ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ
+•> /see_caption - sᴇᴇ ʏᴏᴜʀ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ
+•> /del_caption - ᴅᴇʟᴇᴛᴇ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ
 
-Example:- /set_caption 📕 File Name: {filename}
-💾 Size: {filesize}
-⏰ Duration: {duration}
+ᴇxᴀᴍᴘʟᴇ:- /set_caption 📕 ғɪʟᴇ ɴᴀᴍᴇ: {filename}
+💾 sɪᴢᴇ: {filesize}
+⏰ ᴅᴜʀᴀᴛɪᴏɴ: {duration}
 
-✏️ <b><u>HOW TO RENAME A FILE</u></b>
-•> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
+✏️ <b><u>ʜᴏᴡ ᴛᴏ ʀᴇɴᴀᴍᴇ ᴀ ғɪʟᴇ</u></b>
+•> sᴇɴᴅ ᴀɴʏ ғɪʟᴇ ᴀɴᴅ ᴄʟɪᴄᴋ ʀᴇɴᴀᴍᴇ ᴏᴘᴛɪᴏɴ ᴀɴᴅ ᴛʏᴘᴇ ɴᴇᴡ ғɪʟᴇ ɴᴀᴍᴇ ᴀɴᴅ \n sᴇɴᴅ sᴇʟᴇᴄᴛ [ᴅᴏᴄᴜᴍᴇɴᴛ, ᴠɪᴅᴇᴏ, ᴀᴜᴅɪᴏ]👈 ᴄʜᴏɪᴄᴇ ᴛʜɪs..
 """
